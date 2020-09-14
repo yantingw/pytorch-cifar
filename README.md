@@ -29,3 +29,6 @@ I manually change the `lr` during training:
 - `0.001` for epoch `[250,350)`
 
 Resume the training with `python main.py --resume --lr=0.01`
+
+
+## 0909 python main.py --resume --lr=0.01 (VGG19)
